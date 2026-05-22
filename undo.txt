@@ -1,5 +1,1 @@
-<<<<<<< HEAD
  Terrible commit 
-=======
-original line
->>>>>>> parent of 221d99f (move the faults to main)
